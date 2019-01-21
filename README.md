@@ -4,7 +4,7 @@
 # python finename for running the program
 #python -m pytest for testing the code
 
-Node:
+Note:
 Lca: 
 Time complexity is O(n). 
 while traversing the tree path is compared
